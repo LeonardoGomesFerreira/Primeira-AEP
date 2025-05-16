@@ -56,16 +56,6 @@ O sistema é um **CRUD (Create, Read, Update, Delete)** de usuários, com funcio
 
 ---
 
-## 📂 Estrutura
-
-```
-├── Usuarios.txt      // Arquivo com usuários criptografados
-├── main.c            // Código-fonte do projeto
-├── README.md         // Este arquivo
-```
-
----
-
 ## 🎯 Objetivo
 
 O projeto foi desenvolvido para consolidar os conceitos de:
